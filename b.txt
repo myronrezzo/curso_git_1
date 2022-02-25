@@ -1,0 +1,1 @@
+Arquivo "b.txt" alterado no 2_clone_repo.
